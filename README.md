@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning
   - The **MERN** stack (MongoDB, Express.js, React.js, Node.js, Node.js)
   - Git
+  - Machine Learning
 - 💞️ I’m looking to secure my first internship in the vast world of **software engineering**.
 - 📫 You can reach me at
   - 📧 : [oemudainohwo@gmail.com](mailto:oemudainohwo@gmail.com?subject=Reaching%20Out%20From%20Github)
