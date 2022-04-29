@@ -1,4 +1,5 @@
 [![Oroghene's GitHub stats](https://github-readme-stats.vercel.app/api?username=oroghene)](https://github.com/anuraghazra/github-readme-stats)
+![Oroghene's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oroghene&theme=blue-green)
 - 👋 Hi, I’m Oroghene Emudainohwo.
 - 👨🏿‍🎓 I'm a junior at **Drexel University** studying Electrical Engineering (B.S.) with a minor in Computer Science
 - 👨🏿‍💻 Software Developer at **Sharing Excess**
