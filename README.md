@@ -1,9 +1,8 @@
 [![Oroghene's GitHub stats](https://github-readme-stats.vercel.app/api?username=oroghene)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oroghene)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m Oroghene Emudainohwo.
-- 👨🏿‍🎓 I'm a junior at **Drexel University** studying Electrical Engineering (B.S.) with a minor in Computer Science
-- 👨🏿‍💻 Software Developer at **Sharing Excess**
-- 🌱 I’m currently learning about the **blockchain and web3**
+- 👨🏿‍🎓 I'm a senior at **Drexel University** majoring Electrical Engineering (B.S.) and minoring in **Computer Science** and **Mathematics**
+- 🌱 I’m currently taking classes on **Artificial Intelligence, Machine Learning, and Database Structures**
 - ⬆️ Checkout my **stats**
 - 📫 You can reach me at
   - 📧 : [oemudainohwo@gmail.com](mailto:oemudainohwo@gmail.com?subject=Reaching%20Out%20From%20Github)
